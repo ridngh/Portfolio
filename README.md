@@ -1,6 +1,6 @@
 # Welcome to My Portfolio
 
-Hello! I'm Riddhima Singh, a Master of Public Policy and Management candidate at Carnegie Mellon University's Heinz College, specializing in Data Analytics. My passion lies at the intersection of data-driven decision-making and public policy, where I aim to create impactful solutions for pressing societal challenges.
+Hello! I'm *Riddhima Singh*, a Master of *Public Policy and Management* candidate at *Carnegie Mellon University's Heinz College*, specializing in *Data Analytics*. My passion lies at the intersection of data-driven decision-making and public policy, where I aim to create impactful solutions for pressing societal challenges.
 
 This portfolio showcases my work from various courses at CMU, including:
 
