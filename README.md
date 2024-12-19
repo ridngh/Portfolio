@@ -4,7 +4,7 @@ Hi there! I'm **Riddhima Singh**, a Master of **Public Policy and Management** s
   
 Here, you'll find highlights of my work from CMU, including:  
   
-- [Optimization](/Data Focused Python/README.md)  
+- [Optimization](/Optimization/README.md)  
   Designed an optimization model to enhance bike lane connectivity and coverage based on NYC CitiBike data.  
 - [GIS](/GIS/README.md)  
   Identified areas for targeted focus by workforce development programs based on high school dropout and progression rates.  
