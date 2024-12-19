@@ -21,4 +21,4 @@ Here, you'll find highlights of my work from CMU, including:
   
 Each project reflects my commitment to using data to solve complex challenges with clarity, innovation, and impact.  
   
-Dive in, explore, and let's connect!
+Dive in, explore, and let's [connect](mailto:riddhims@andrew.cmu.edu)!
