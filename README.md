@@ -5,13 +5,13 @@ Hi there! I'm **Riddhima Singh**, a Master of **Public Policy and Management** s
 Here, you'll find highlights of my work from CMU, including:  
   
 - [Optimization]()  
-  Designed an optimization model to enhance bike lane connectivity and coverage using NYC CitiBike data.  
+  Designed an optimization model to enhance bike lane connectivity and coverage based on NYC CitiBike data.  
 - [GIS]()  
-  Identified areas for workforce development programs based on high school dropout and progression rates.  
+  Identified areas for targeted focus by workforce development programs based on high school dropout and progression rates.  
 - [Policy Analysis]()  
-  Worked to distribute the funds from the LIHEAP program for heating assistance in a mock case study.  
+  Designed policies for allocating federal LIHEAP funds to provide heating assistance within a state as part of a mock case study.
 - [Public Interest Technology]()  
-  Developed a proof of concept to enhance safety in the immigration space by detecting scam job postings through Hugging Face LLM.  
+  Developed a proof of concept to enhance safety in the immigration space by detecting scam job postings on websites through Hugging Face LLM.  
 - [Data Focused Python]()  
   Built a Python-based app using BeautifulSoup to scrape recipes and create personalized meal plans tailored to user preferences like cooking time and reviews.  
 - [Visual Storytelling]()  
