@@ -8,8 +8,6 @@ Here, you'll find highlights of my work from CMU, including:
   Designed an optimization model to enhance bike lane connectivity and coverage based on NYC CitiBike data.  
 - [GIS](/GIS/README.md)  
   Identified areas for targeted focus by workforce development programs based on high school dropout and progression rates.  
-- [Policy Analysis](/Policy Analysis/README.md)  
-  Designed policies for allocating federal LIHEAP funds to provide heating assistance within a state as part of a mock case study.
 - [Public Interest Technology](/Public Interest Technology/README.md)  
   Developed a proof of concept to enhance safety in the immigration space by detecting scam job postings on websites through Hugging Face LLM.  
 - [Data Focused Python](/Data Focused Python/README.md)  
