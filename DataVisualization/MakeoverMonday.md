@@ -5,8 +5,9 @@
 [Makeover Monday](https://makeovermonday.co.uk/) is an online community that improves how we visualize data, one chart at a time. The visualization I chose from Makeover Monday's repository is part of a Bloomberg article , ["How the US drives Gun Exports"](https://www.bloomberg.com/graphics/2023-us-made-gun-exports-shootings-violence-sig-sauer/).
 
 <img src="US Gun Exports.png" width="700"/>  
-Source: https://www.bloomberg.com/graphics/2023-us-made-gun-exports-shootings-violence-sig-sauer/
-  
+     
+     
+       
 The original chart, designed as a gunshot, effectively captured attention but lacked clarity in interpretation. It required significant effort to decode its four key elements:
 
 1. Line thickness signifies volume of firearm imports
