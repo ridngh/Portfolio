@@ -30,12 +30,14 @@ I traded style for clarity. By using a bar chart, I was immediately able to aid 
   scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
   vizElement.parentNode.insertBefore(scriptElement, vizElement);
 </script>
+    
+    
+    
+### Appendix: Wireframes that I tried  
+The original visualization tried to retain geography by using direction of lines. Hence I tried a chloropeth and a graduated symbol map.  
   
-  
-  
-### Appendix: Wireframes that I tried
-The original visualization too tried to retain geography by using direction of lines. Hence I tried a chloropeth and a graduated symbol map. I was however quick to realise that the chloropeth did injustice to the data due to variations in size of our shaded regions. Thailand was the biggest exporter, but what stood out was Canada. Similarly, when using graduated symbol maps, it was very difficult to compare countries and draw conclusions due to the sparse data points. Hence, I shifted to a bar chart.
-  
+I was however quick to realise that the chloropeth did injustice to the data due to variations in size of our shaded regions. Thailand was the biggest exporter, but what stood out was Canada. Similarly, when using graduated symbol maps, it was very difficult to compare countries and draw conclusions due to the sparse data points. Hence, I shifted to a bar chart.
+    
 **Chloropeth Wireframe**  
 <img src="gun_export_chloropeth_wireframe.png" width="500"/>
   
