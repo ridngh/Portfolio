@@ -8,11 +8,11 @@ Here, you'll find highlights of my work from CMU, including:
   Designed an optimization model to enhance bike lane connectivity and coverage based on NYC CitiBike data.  
 - [GIS](/GIS/README.md)  
   Identified areas for targeted focus by workforce development programs based on high school dropout and progression rates.  
-- [Public Interest Technology](/Public Interest Technology/README.md)  
+- [Public Interest Technology](/PublicInterestTechnology/README.md)  
   Developed a proof of concept to enhance safety in the immigration space by detecting scam job postings on websites through Hugging Face LLM.  
-- [Data Focused Python](/Data Focused Python/README.md)  
+- [Data Focused Python](/DataFocusedPython/README.md)  
   Built a Python-based app using BeautifulSoup to scrape recipes and create personalized meal plans tailored to user preferences like cooking time and reviews.  
-- [Visual Storytelling](/Data Visualization/README.md)  
+- [Visual Storytelling](/DataVisualization/README.md)  
   Engaged in data visualization projects like Makeover Monday and other visualization assignments.  
 - [Presentation](/Presentation/README.md)  
   A collection of sample presentations I created during my time at CMU  
