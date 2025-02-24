@@ -14,6 +14,7 @@ The original chart, designed as a gunshot, effectively captured attention but la
 2. Line length signifies distance from the US
 3. Line direction signifies regional associations
 4. The countries listed are the top 25 US firearms importers
+
 <br />
 <br />
 ### My re-interpretation  
