@@ -2,7 +2,7 @@ This file stores all the notes I took from the [Microsoft Autogen github portal]
 
 1. While there are many definitions of agents, in AutoGen, an agent is an entity that can send messages, receive messages and generate a reply using models, tools, human inputs or a mixture of them.[1](https://www.gettingstarted.ai/autogen-agents-overview/)
 2. An agent can be powered by models (such as a large language model like GPT-4), code executors (such as an IPython kernel), human, or a combination of these and other pluggable and customizable components.[2](https://www.gettingstarted.ai/autogen-agents-overview/)
-3. An example of such agents is the built-in ConversableAgent which supports the following components: [3](https://www.gettingstarted.ai/autogen-agents-overview/)
+3. An example of such agents is the built-in ConversableAgent which supports the following components: [3](https://www.gettingstarted.ai/autogen-agents-overview/)  
    A list of LLMs  
    A code executor  
    A function and tool executor  
